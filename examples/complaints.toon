@@ -1,0 +1,7 @@
+complaints[6]{id,text,source,url,collected_at,kind}:
+  fixture_hn_1,CSV export is broken when a field contains commas,hn,https://example.com/fixtures/hn/1,2026-10-22T15:00:00.000Z,fixture
+  fixture_hn_2,CSV export is broken when a field contains commas,hn,https://example.com/fixtures/hn/1,2026-10-22T15:00:00.000Z,fixture
+  fixture_forum_1,CSV export is broken when a field contains commas and quotes,forum,https://example.com/fixtures/forum/1,2026-10-22T15:00:00.000Z,fixture
+  fixture_reddit_1,My saved links are hard to organize by topic,reddit,https://example.com/fixtures/reddit/1,2026-10-22T15:00:00.000Z,fixture
+  fixture_app_1,My saved links are hard to organize by topic and tags,appstore,https://example.com/fixtures/appstore/1,2026-10-22T15:00:00.000Z,fixture
+  fixture_forum_2,I lose track of invoices sent to my clients,forum,https://example.com/fixtures/forum/2,2026-10-22T15:00:00.000Z,fixture

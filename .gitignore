@@ -1,0 +1,9 @@
+node_modules/
+runs/
+.superpowers/
+*.lock.tmp
+.DS_Store
+.env*
+evidence/*.txt
+evidence/*.ndjson
+evidence/*.stderr
