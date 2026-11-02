@@ -18,6 +18,8 @@ npm start -- help
 
 `demo` creates a fresh `runs/demo-...` directory. Six synthetic source records become three ranked problems after deduplication. The run stops at human selection because fixture evidence cannot qualify for a live build. Repeat runs preserve earlier runs. Use `npm start -- status --run <printed-run-path>` to inspect a run.
 
+See the [worked ranking guide](https://wtfashwin.github.io/Portfolio/complaint-ranking/) for the calculation from six synthetic records to five mentions and three problems, plus the deduplication rules, clustering limits and pinned source.
+
 ## Stages and gates
 
 | Stage | What runs | Required next evidence |
